@@ -10,8 +10,8 @@
 	<author>Liming Xie</author>
 	<license>MIT</license>
 	<keywords>ad,admob,google,play,services,iad,flurry</keywords>
-    <repo>https://github.com/floatinghotpot/cordova-plugin-admob.git</repo>
-    <issue>https://github.com/floatinghotpot/cordova-plugin-admob/issues</issue>
+    <repo>https://github.com/tunee/cordova-plugin-admob-1.git</repo>
+    <issue>https://github.com/tunee/cordova-plugin-admob-1/issues</issue>
 
 	<engines>
 	    <engine name="cordova" version=">=3.0" />
